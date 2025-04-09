@@ -1,4 +1,3 @@
-# student-feedback-manager1.0.1
 # 🎓 Student Feedback Manager
 
 > *A clean, Python-based tool to collect, analyze, and summarize student feedback.*  
@@ -22,4 +21,18 @@
 ---
 
 ## 🧩 Project Structure
+
+---
+
+## 🛠️ How to Use
+
+```bash
+# Step 1: Collect Feedback
+python feedback_entry.py
+
+# Step 2: Calculate Average Score
+python score_calculator.py
+
+# Step 3: Summarize Feedback (Top scorer, Grade stats)
+python feedback_summary.py
 
